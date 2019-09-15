@@ -1,5 +1,5 @@
 1. Siarhei Karukhin
-2. * + 375 25 608 78 17
+2. * 375 25 608 78 17
    * karyuhin.sergej@gmail.com
    * [vk](https://vk.com/karyuhin.sergej)
 3. I have a black cat =)
